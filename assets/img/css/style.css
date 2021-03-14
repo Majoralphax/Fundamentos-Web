@@ -1,0 +1,26 @@
+/*Estilo da pagina index.html */
+.center {
+    text-align: Center;
+}
+
+.container {
+
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+
+
+}
+
+
+
+
+
+
+
+/*Estilo da pagina Contato.html */
