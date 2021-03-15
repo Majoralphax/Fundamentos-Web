@@ -1,0 +1,57 @@
+/*Estilo da pagina index.html */
+.center {
+    text-align: Center;
+}
+.justify{
+    text-align: justify;
+}
+
+.container {
+
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding:20px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+#menu li a {
+    text-decoration: none;
+    color: black;
+
+}
+#menu li a:hover{
+    Color: grey;
+}
+.p-30{
+    padding:30px;
+
+}
+.br-50{
+    border-radius: 50%;
+}
+.wh{
+    width: 300px;
+    height: 300px;
+}
+.tm-social{
+    width: 50px;
+    height: 50px;
+
+}
+.mps{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+/*Estilo da pagina Contato.html */
